@@ -12,8 +12,11 @@ This app is intended for both customers in need of local services, such as home 
 
 ## HOW?
 *Service Provider Directory: Our platform will have a comprehensive directory of local, independent service providers in a specific area, with detailed information on the services they offer, their experience, and customer reviews.
+
 *Request for Quotes: Customers can submit a request for quotes for the services they need, and local service providers can respond with customized quotes. This will allow customers to compare prices and services from multiple providers, ensuring that they find the best value for their money.
+
 *Service Booking: Once a customer has selected a service provider, they can book the services directly through the platform, with secure payment options.
+
 *Provider Management System: Service providers will have access to a provider management system, allowing them to manage their bookings, view customer requests, and update their profiles and services.
 
 ## Scope
